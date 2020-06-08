@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66c80829fb2882d4299ef1689c338762
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cropBoxObject: {instanceID: 0}
+  - captureAudioClip: {fileID: 8300000, guid: dd8cf4356c0da734fa35b18f5327f6fa, type: 3}
+  - failedAudioClip: {fileID: 8300000, guid: d82afc3bccc5281478607f12f010f1e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

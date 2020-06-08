@@ -1,0 +1,6 @@
+PerceptionSimulationManager.dll
+Microsoft.Perception.Simulation.dll
+VuforiaWrapper.dll
+PerceptionRemotingPlugin.dll
+Vuforia.dll
+HolographicStreamerDesktop.dll

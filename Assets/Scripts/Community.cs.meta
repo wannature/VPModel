@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b016a3417e8e9d247a9efec81ffb0441
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quad: {instanceID: 0}
+  - photobtn: {instanceID: 0}
+  - jujiao: {fileID: 21300000, guid: 1296c09d641e41045ac7e5214e74ac90, type: 3}
+  - daiji: {fileID: 21300000, guid: 152999c15e71300418ea3587f1cfea51, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

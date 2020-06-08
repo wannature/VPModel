@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 825afa2f6ed27a44ca4f2557284f1e32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - captureAudioClip: {fileID: 8300000, guid: dd8cf4356c0da734fa35b18f5327f6fa, type: 3}
+  - failedAudioClip: {fileID: 8300000, guid: d82afc3bccc5281478607f12f010f1e8, type: 3}
+  - showT: {instanceID: 0}
+  - photobtn: {instanceID: 0}
+  - quad: {instanceID: 0}
+  - daiji: {instanceID: 0}
+  - jujiao: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

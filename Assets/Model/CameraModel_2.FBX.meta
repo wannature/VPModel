@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: ed4d03e68b4502843b859fc9e7906d41
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cgaxis_electronics_35_010
+    100004: cgaxis_electronics_35_011
+    100006: cgaxis_electronics_35_012
+    100008: cgaxis_electronics_35_013
+    100010: cgaxis_electronics_35_014
+    100012: cgaxis_electronics_35_015
+    100014: cgaxis_electronics_35_016
+    100016: cgaxis_electronics_35_017
+    100018: "\u4E2D\u95F4\u67E5\u770B\u952E"
+    100020: "\u5220\u9664\u6309\u94AE"
+    100022: "\u5F00\u5173\u6309\u94AE"
+    100024: "\u5FEB\u95E8*"
+    100026: "\u6444\u50CF\u6309\u94AE"
+    100028: "\u65B9\u5411\u6309\u94AE\u65E0\u4E2D\u95F4\u5706\u5F62"
+    100030: "\u65B9\u5411\u6309\u952E\u76D8"
+    100032: "\u673A\u4F53"
+    100034: "\u6A21\u5F0F\u9009\u62E9\u8F6C\u8F6E-\u9762*"
+    100036: "\u955C\u5934"
+    400000: //RootNode
+    400002: cgaxis_electronics_35_010
+    400004: cgaxis_electronics_35_011
+    400006: cgaxis_electronics_35_012
+    400008: cgaxis_electronics_35_013
+    400010: cgaxis_electronics_35_014
+    400012: cgaxis_electronics_35_015
+    400014: cgaxis_electronics_35_016
+    400016: cgaxis_electronics_35_017
+    400018: "\u4E2D\u95F4\u67E5\u770B\u952E"
+    400020: "\u5220\u9664\u6309\u94AE"
+    400022: "\u5F00\u5173\u6309\u94AE"
+    400024: "\u5FEB\u95E8*"
+    400026: "\u6444\u50CF\u6309\u94AE"
+    400028: "\u65B9\u5411\u6309\u94AE\u65E0\u4E2D\u95F4\u5706\u5F62"
+    400030: "\u65B9\u5411\u6309\u952E\u76D8"
+    400032: "\u673A\u4F53"
+    400034: "\u6A21\u5F0F\u9009\u62E9\u8F6C\u8F6E-\u9762*"
+    400036: "\u955C\u5934"
+    2100000: AM_81_015_03
+    2100002: AM_81_015_04
+    2100004: cgaxis_electronics_35_02
+    2100006: 'Material #23395'
+    2100008: 'Material #23396'
+    2100010: cgaxis_electronics_35_03
+    2100012: cgaxis_electronics_35_08
+    2100014: cgaxis_electronics_35_09
+    2100016: cgaxis_electronics_35_04
+    2100018: cgaxis_electronics_35_07
+    2100020: cgaxis_electronics_35_06
+    2100022: cgaxis_electronics_35_05
+    2100024: cgaxis_electronics_35_01
+    2300000: cgaxis_electronics_35_010
+    2300002: cgaxis_electronics_35_011
+    2300004: cgaxis_electronics_35_012
+    2300006: cgaxis_electronics_35_013
+    2300008: cgaxis_electronics_35_014
+    2300010: cgaxis_electronics_35_015
+    2300012: cgaxis_electronics_35_016
+    2300014: cgaxis_electronics_35_017
+    2300016: "\u4E2D\u95F4\u67E5\u770B\u952E"
+    2300018: "\u5220\u9664\u6309\u94AE"
+    2300020: "\u5F00\u5173\u6309\u94AE"
+    2300022: "\u5FEB\u95E8*"
+    2300024: "\u6444\u50CF\u6309\u94AE"
+    2300026: "\u65B9\u5411\u6309\u94AE\u65E0\u4E2D\u95F4\u5706\u5F62"
+    2300028: "\u6A21\u5F0F\u9009\u62E9\u8F6C\u8F6E-\u9762*"
+    2300030: "\u955C\u5934"
+    3300000: cgaxis_electronics_35_010
+    3300002: cgaxis_electronics_35_011
+    3300004: cgaxis_electronics_35_012
+    3300006: cgaxis_electronics_35_013
+    3300008: cgaxis_electronics_35_014
+    3300010: cgaxis_electronics_35_015
+    3300012: cgaxis_electronics_35_016
+    3300014: cgaxis_electronics_35_017
+    3300016: "\u4E2D\u95F4\u67E5\u770B\u952E"
+    3300018: "\u5220\u9664\u6309\u94AE"
+    3300020: "\u5F00\u5173\u6309\u94AE"
+    3300022: "\u5FEB\u95E8*"
+    3300024: "\u6444\u50CF\u6309\u94AE"
+    3300026: "\u65B9\u5411\u6309\u94AE\u65E0\u4E2D\u95F4\u5706\u5F62"
+    3300028: "\u6A21\u5F0F\u9009\u62E9\u8F6C\u8F6E-\u9762*"
+    3300030: "\u955C\u5934"
+    4300000: "\u6444\u50CF\u6309\u94AE"
+    4300002: "\u6A21\u5F0F\u9009\u62E9\u8F6C\u8F6E-\u9762*"
+    4300004: "\u5FEB\u95E8*"
+    4300006: "\u65B9\u5411\u6309\u94AE\u65E0\u4E2D\u95F4\u5706\u5F62"
+    4300008: cgaxis_electronics_35_017
+    4300010: "\u4E2D\u95F4\u67E5\u770B\u952E"
+    4300012: "\u5220\u9664\u6309\u94AE"
+    4300014: "\u5F00\u5173\u6309\u94AE"
+    4300016: cgaxis_electronics_35_011
+    4300018: "\u955C\u5934"
+    4300020: cgaxis_electronics_35_013
+    4300022: cgaxis_electronics_35_012
+    4300024: cgaxis_electronics_35_014
+    4300026: cgaxis_electronics_35_015
+    4300028: cgaxis_electronics_35_016
+    4300030: cgaxis_electronics_35_010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

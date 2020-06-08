@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>vpad1</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\unity\New Unity Project (2)\app\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\unity\New Unity Project (2)\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Program Files\Unity Hub\2018.4.3f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

@@ -1,0 +1,2 @@
+D:\unity\New Unity Project (2)\新建文件夹 (2)\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\unity\New Unity Project (2)\新建文件夹 (2)\vpad1\vpad1.csproj;x86
